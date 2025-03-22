@@ -12,11 +12,9 @@ Website =>
 so Admin will create: 
                       category (crud)
                       products (crud)
-
                       carts
                       customers
                       orders
-
                       Login
 
 & on Website to create for Cus:
