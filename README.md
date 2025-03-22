@@ -9,7 +9,7 @@ Website =>
 
 
 
-so Admin will create: 
+so Admin will create:
                       category (crud)
                       products (crud)
                       carts
